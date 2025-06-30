@@ -1,3 +1,15 @@
+hello (2.10-5ubuntu4) focal; urgency=medium
+
+  * Install testing.sh to /usr/bin for PPA
+
+ -- DESKTOP-EKBKE6E <nico@DESKTOP-EKBKE6E.localdomain>  Mon, 30 Jun 2025 08:21:16 -0500
+
+hello (2.10-5ubuntu3) focal; urgency=medium
+
+  * Fix debhelper-compat version for Ubuntu 20.04 build
+
+ -- DESKTOP-EKBKE6E <nico@DESKTOP-EKBKE6E.localdomain>  Mon, 30 Jun 2025 07:52:19 -0500
+
 hello (2.10-5ubuntu2) focal; urgency=medium
 
   * Added testing.sh script and postinst message.
