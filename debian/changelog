@@ -1,3 +1,9 @@
+hello (2.10-5ubuntu2) UNRELEASED; urgency=medium
+
+  * Added testing.sh script and postinst message.
+
+ -- DESKTOP-EKBKE6E <nico@DESKTOP-EKBKE6E.localdomain>  Mon, 30 Jun 2025 06:11:36 -0500
+
 hello (2.10-5) unstable; urgency=medium
 
   * Add autopkgtest dependency on make. Closes: #1103293.
